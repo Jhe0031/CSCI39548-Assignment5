@@ -2,7 +2,7 @@
   "name": "assignment5",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://jhe0031.github.io/CSCI39548-Assignment5/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
